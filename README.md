@@ -24,8 +24,7 @@
 - 💬 Ask me about: Responsive design, Bootstrap 5, React basics & JavaScript ES6+  
 - 📫 Reach me:  
   - ✉ *maazsarwarz056@gmail.com*  
-  - 🔗 [GitHub](https://github.com/maaz0025) | [LinkedIn](www.linkedin.com/in/
-maaz-sarwar0)  
+  - 🔗 [GitHub](https://github.com/maaz0025) | [LinkedIn]https://www.linkedin.com/in/maaz-sarwar-b4b74b356/  
 - ⚡ Fun fact: I started coding with just curiosity, chai ☕, and late-night YouTube sessions!  
 
 ---
