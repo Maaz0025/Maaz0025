@@ -1,31 +1,53 @@
-# Hi, I'm Maaz Sarwar 👋  
-### Front-End Web Developer  
+# 👋 Hi, I'm **Maaz Sarwar**  
+### 🤖 AI Engineer | Machine Learning Enthusiast  
 📍 Lahore, Pakistan  
-💡 Passionate about building *responsive, user-friendly websites* with modern web technologies
+💡 Passionate about building **intelligent systems** that combine data, logic, and creativity using *Python, Machine Learning, and Deep Learning.*
+
+---
+
+## 🧠 Current Focus  
+I’m on a journey to become a **Professional AI Engineer**, mastering the complete stack — from **Python programming** to **Machine Learning, Deep Learning, NLP, and Computer Vision.**  
+My goal is to build intelligent models and real-world AI-powered applications that make data truly useful 🚀  
 
 ---
 
 ## 🛠 Tech Stack  
-- *Languages & Core*: HTML5, CSS3, JavaScript (ES6+)  
-- *Frameworks & Libraries*: Bootstrap 5, React.js  
-- *Tools*: Git, GitHub, VS Code  
-- *Skills*: Responsive Design, Cross-Browser Compatibility, UI/UX Implementation  
+
+### 🐍 Programming & Tools  
+- **Languages:** Python, SQL  
+- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
+- **Tools:** Jupyter Notebook, Google Colab, VS Code, Git, GitHub  
+- **Databases:** SQLite, MySQL  
+
+### 🧩 Machine Learning & AI Skills  
+- Data Collection & Cleaning  
+- Feature Engineering & Data Preprocessing  
+- Model Training, Evaluation & Optimization  
+- Supervised & Unsupervised Learning  
+- Deep Learning (ANN, CNN, RNN)  
+- NLP (Text Classification, Sentiment Analysis, Chatbots)  
+- Computer Vision (Image Classification, Object Detection)  
 
 ---
-## 📚 Courses Completed  
-- Front-End Web Development (Corvit Institute)
+
+## 📚 Learning Path  
+- ✅ *Python Programming* — Completed  
+- ✅ *Data Processing (NumPy, Pandas, Matplotlib)* — Completed  
+- 🔬 *Machine Learning (Scikit-learn)* — In Progress  
+- 🧠 *Deep Learning (TensorFlow, PyTorch)* — Upcoming  
+- 💬 *NLP & Computer Vision Projects* — Upcoming  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on: Portfolio website & React-based front-end projects  
-- 🌱 Exploring: React.js components, state management & modern JavaScript features  
-- 🤝 Open to collaborate on: Front-end web apps, landing pages & open-source web projects  
-- 💬 Ask me about: Responsive design, Bootstrap 5, React basics & JavaScript ES6+  
+- 🔭 Currently working on: Machine Learning & Deep Learning projects  
+- 🌱 Exploring: Model Deployment, AI Integration, and Edge AI systems  
+- 🤝 Open to collaborate on: AI models, NLP tools, and Computer Vision projects  
+- 💬 Ask me about: Python, ML concepts, Neural Networks, and Data Preprocessing  
 - 📫 Reach me:  
   - ✉ *maazsarwarz056@gmail.com*  
-  - 🔗 [GitHub](https://github.com/maaz0025) | [LinkedIn]https://www.linkedin.com/in/maaz-sarwar-b4b74b356/  
-- ⚡ Fun fact: I started coding with just curiosity, chai ☕, and late-night YouTube sessions!  
+  - 🔗 [GitHub](https://github.com/maaz0025) | [LinkedIn](https://www.linkedin.com/in/maaz-sarwar-b4b74b356/)  
+- ⚡ Fun fact: My favorite debugging partner? **A hot cup of chai ☕ and endless curiosity.**
 
 ---
 
@@ -36,7 +58,9 @@
 
 ---
 
-## 💼 My Journey  
-I’m a dedicated *Front-End Web Developer* focused on crafting clean, modern, and user-friendly websites.  
-Using *HTML5, CSS3, Bootstrap 5, JavaScript (ES6+), and React.js*, I turn ideas into responsive, functional interfaces.  
-This is just the beginning of my journey toward becoming a professional front-end engineer 🚀
+## 💼 My Vision  
+I’m passionate about using **Artificial Intelligence** to solve real-world problems and build smarter solutions.  
+From **Machine Learning** to **Computer Vision** and **Natural Language Processing**,  
+I aim to create AI models that are not just powerful — but *meaningful, efficient, and human-centered.*  
+
+This is just the beginning of my journey to becoming a **Professional AI Engineer & Innovator** 💡🚀
